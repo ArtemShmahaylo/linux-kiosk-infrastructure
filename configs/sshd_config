@@ -1,0 +1,5 @@
+PermitRootLogin no
+PubkeyAuthentication yes
+PasswordAuthentication yes
+AllowUsers infoscreen
+X11Forwarding yes
